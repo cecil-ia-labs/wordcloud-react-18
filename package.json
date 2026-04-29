@@ -15,7 +15,7 @@
     "seedrandom": "^3.0.5",
     "tippy.js": "^6.3.7"
   },
-  "description": "D3-based word cloud component for React 18",
+  "description": "D3-based word cloud component for React >= 18",
   "devDependencies": {
     "@types/d3-array": "^3.2.2",
     "@types/d3-cloud": "^1.2.9",
